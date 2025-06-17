@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+pytgcalls
+aiohttp
+transformers
+torch
+python-dotenv
